@@ -15,7 +15,7 @@ public class App
     }
     public void location()
     {
-        System.out.println( address);
+        System.out.println( "this is location");
     }
     // public static void main( String[] args )
     // {
