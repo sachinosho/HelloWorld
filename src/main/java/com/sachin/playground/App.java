@@ -13,16 +13,18 @@ public class App
     {
         System.out.println( greet);
     }
-    public address()
+    public void location()
     {
         System.out.println( address);
     }
-    public static void main( String[] args )
-    {
-        System.out.println( greet);
-    }
-    public static void main( String[] args )
-    {
-        System.out.println( greet);
-    }
+    // public static void main( String[] args )
+    // {
+    //     System.out.println( greet);
+    // }
+    // public static void main( String[] args )
+    // {
+    //     System.out.println( greet);
+    // }
+
+
 }
