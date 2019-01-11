@@ -16,6 +16,12 @@ public class App
     public void location()
     {
         System.out.println( "this is location");
+        
+    }
+    public void  state ()
+    {
+        System.out.println("Delhi");
+        
     }
     // public static void main( String[] args )
     // {
